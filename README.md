@@ -16,14 +16,14 @@
   Skills
 </h2>
 <ul>
-  <li>Created tables with cell data</li>
-  <li>Used filter functions to sort the table</li>
-  <li>Manipulated data using formulas such as SUM, AVERAGE, MIN, MAX</li>
-  <li>Used conditional formatting to present data clearly</li>
-  <li>Created pivot tables to gain insights on key data</li>
-  <li>Cleaned and sorted the data to account for Null or incorrect values</li>
-  <li>Used pivot tables to create visualisations to present the data</li>
-  <li>Analysed the tables and visuals to look at trends and patterns in the data</li>
+  <li>Create tables with cell data</li>
+  <li>Use filter functions to sort the table</li>
+  <li>Manipulate data using formulas such as SUM, AVERAGE, MIN, MAX</li>
+  <li>Use conditional formatting to present data clearly</li>
+  <li>Create pivot tables to gain insights on key data</li>
+  <li>Clean and sort the data to account for Null or incorrect values</li>
+  <li>Use pivot tables to create visualisations to present the data</li>
+  <li>Analyse the tables and visuals to look at trends and patterns in the data</li>
 </ul>
 
 <h2>
