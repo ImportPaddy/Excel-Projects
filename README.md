@@ -36,9 +36,12 @@
 <h3>
   Pivot Table
 </h3>
+<img width="413" height="127" alt="Pivot Table Example 1" src="https://github.com/user-attachments/assets/a92e2ba9-946c-40d3-9faa-00eadd3bf107" />
 <h3>
   Visualisation
 </h3>
+<img width="609" height="321" alt="Visualisation Example 1" src="https://github.com/user-attachments/assets/36a8a7b2-1d94-4a23-98a5-69da3d68023b" />
+
 
 <h2>
   Outcomes
