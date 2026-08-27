@@ -27,6 +27,20 @@
 </ul>
 
 <h2>
+  Examples
+</h2>
+<h3>
+  Table
+</h3>
+<img width="553" height="230" alt="Table Example 1" src="https://github.com/user-attachments/assets/64d964e2-1cab-43b2-9a05-3ee4655026b4" />
+<h3>
+  Pivot Table
+</h3>
+<h3>
+  Visualisation
+</h3>
+
+<h2>
   Outcomes
 </h2>
 <p>
